@@ -1,6 +1,6 @@
 # Dopravní informační systém
 
-Zápočtový program do předmětu Programování 2 (NMIN102) na MFF UK v LS 2014/2015, napsaný v jazyce Pascal. 
+
 
 ## Anotace
 
